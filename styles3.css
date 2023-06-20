@@ -5,8 +5,8 @@
 }
 body {  
         width: 1200px;
-        margin-right: 120px;
-        margin-left: 120px;
+        margin-right: auto;
+        margin-left: auto;
         text-align: center;
 }
 .title {
